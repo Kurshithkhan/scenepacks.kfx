@@ -8,12 +8,12 @@
         "Mongo DB"
     ],
     "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
+    "repository": "https://github.com/Kurshithkhan/scenepacks.kfx",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "5102815204:AAGFtrbfsqwWF-PCWQqxrKt1kCXRBhvVKEc"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
